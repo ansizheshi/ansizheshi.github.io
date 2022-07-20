@@ -1,5 +1,5 @@
+http://example.com/2022/07/20/Test/
 http://example.com/google5d7eb50bb83fdb9d.html
-http://example.com/2022/02/10/Test/
 http://example.com/2022/07/20/hello-world/
 http://example.com/tags/index.html
 http://example.com/about/index.html
